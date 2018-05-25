@@ -36,7 +36,7 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 	- [ ] Es fehlen Meetups für Jugendliche. Wir helfen euch gerne, lokale Treffen für technikbegeisterte Jugendliche zu organisieren!
 
 
-## Code 💻
+## Code 👨‍💻
 
 - (🔨, A/F/P, :us:) [VSCode](https://code.visualstudio.com/) - Eine IDE mit guter Integration und Code Completion.
 - (🖼, A/F/P, :us:) [VSCode Basic Tips](https://medium.com/@martin_betz/how-to-use-visual-studio-code-for-web-design-f2a2450f54d9) - How to use Visual Studio Code for web design
@@ -45,7 +45,7 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (✏️, F/P, :us:) [FreeCodeCamp](https://www.freecodecamp.org/) - Baue verschiedene Projekte und bekomme dafür Zertifikate
 - (✏️, A/F/P, :us:) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
 
-### HTML/CSS
+### HTML/CSS 🕸
 
 - (🖼, A/F/P, :us:) [htmlreference.io](https://htmlreference.io/) - Alle HTML visuell verfügbar.
 - (🖼, A/F/P, :us:) [cssreference.io](https://cssreference.io/) - Alle CSS Styles visuell verfügbar und anschaubar.
@@ -55,9 +55,11 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 Programme zum erstellen von Grafik oder 3D-Objekten
 
 - (🔨*A*/*F*) [Piskel](https://www.piskelapp.com/) - Web-Tool zum gemeinsamen erstellen von Pixel-Art (Block-Grafik)
-- (🔨*A*/*F*/*P*) [Blender](https://www.blender.org/) - Programm zum erstellen und manipulieren von 3D-Objekten (die dann z.B. direkt in der Unity-Engine genutzt werden können)
+- (🔨*F*/*P*) [Blender](https://www.blender.org/) - Programm zum erstellen und manipulieren von 3D-Objekten (die dann z.B. direkt in der Unity-Engine genutzt werden können)
 
 ## Gaming 🎮
+
+Programme und Tutorials zur Computerspieleentwicklung.
 
 - (🔨*A*/*F*/*P*) [Unity 3D](https://unity3d.com/) - Spiele-Engine für 3D und 2D Spiele.
 - (🔨*F*/*P*) [Unreal Engine](https://www.unrealengine.com/) - Spiele-Engine für 3D Spiele.
