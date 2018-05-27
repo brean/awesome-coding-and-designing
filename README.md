@@ -62,10 +62,10 @@ Programme zum erstellen von Grafik oder 3D-Objekten
 Programme und Tutorials zur Computerspieleentwicklung.
 
 - (🔨*A*/*F*/*P*) [Unity 3D](https://unity3d.com/) - Spiele-Engine und Editor für 3D und 2D Spiele.
-  - (✏️*A*/*F*/*P*) [offizielle Unity-Tutorials](https://unity3d.com/de/learn/tutorials) für 2D- und 3D-Spiele (auf Englisch)
+  - (✏️*F*/*P*) [offizielle Unity-Tutorials](https://unity3d.com/de/learn/tutorials) für 2D- und 3D-Spiele (auf Englisch)
 - (🔨*A*/*F*/*P*) [Unreal Engine](https://www.unrealengine.com/) - Spiele-Engine und Editor für 3D und 2D Spiele.
 
-Unity 3D und Unreal sind beides komplexe Editoren mit denen sich alle möglichen 2D und 3D Spiele umsetzen lassen. Sie können beide von Anfängern für einfache Spiele genutzt werden. Da sie aber auch für Profis mächtige Werkzeuge darstellen, mit denen auch große Studios Spiele umsetzen besitzen sie sehr viele Funktionen. Es dauert Jahre um alle Funktionen kennen zu lernen und an der Entwicklung großer Spiele sind oft hunderte Experten über Monate oder gar Jahre beschäftigt.
+Unity 3D und Unreal sind beides komplexe Editoren mit denen sich alle möglichen 2D und 3D Spiele umsetzen lassen. Sie können beide von Anfängern für einfache Spiele genutzt werden. Da sie aber auch für Profis mächtige Werkzeuge darstellen, mit denen auch große Studios Spiele umsetzen besitzen sie sehr viele Funktionen. Es dauert Jahre um alle Funktionen kennen zu lernen und an der Entwicklung großer Spiele sind hunderte Experten  über Monate oder gar Jahre beschäftigt, die sich auf einen Teil der Spieleentwicklung spezialisiert haben (2D/3D Grafiker, Story-Autoren, Programmierer, Marketing-Experten, Musiker, Tester...).
 
 ## Produktentwicklung ✨
 
